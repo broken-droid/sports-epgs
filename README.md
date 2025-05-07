@@ -1,7 +1,7 @@
 # sports-epgs
 Contains dummy channels for sports teams.  The game descriptions contain information on what US/CA channels are showing the games.
 ```xml
-  <programme channel="Miami Marlins.MLB-dummies" start="20250505184000 -0400" stop="20250505214000 -0400">
+  <programme channel="Miami Marlins.MLB" start="20250505184000 -0400" stop="20250505214000 -0400">
     <title>MLB: Los Angeles Dodgers @ Miami Marlins</title>
     <desc>MLB: The Miami Marlins host the Los Angeles Dodgers at loanDepot park, Miami, FL.  
       Live on: FDSN Florida, Spectrum SportsNet LA, Fubo Sports CA, Fubo Sports US</desc>
