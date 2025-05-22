@@ -1,7 +1,7 @@
 <div align="center"><a href='https://ko-fi.com/X8X81ELTUM' target='_blank' class="centered-image"><img height='45' style='border:0px;height:45px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a></div>
 
 # sports-epgs
-Contains dummy channels for sports teams.  The game descriptions contain information on what US/CA channels are showing the games.
+Contains dummy channels for sports teams.  The game descriptions contain information on what US/CA channels are showing the games.  Dummy program data announcing the next game is filled in between live game times.
 ```xml
   <programme channel="Miami Marlins.MLB" start="20250505184000 -0400" stop="20250505214000 -0400">
     <title>MLB: Los Angeles Dodgers @ Miami Marlins</title>
